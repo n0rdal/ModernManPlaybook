@@ -2,9 +2,9 @@
 remote_theme: digitalmalayali/linkhub-jekyll-theme
 
 # Site Configuration
-name: Dumbilionaire  # Name of your website
+name: Modern Man Playbook  # Name of your website
 tagline: Links  # Set your preferred page title
-description: Make Automatic Commissions For Life.  # Also used as a meta description
+description: Dating Playbook for Modern Man.  # Also used as a meta description
 favicon:
   path: assets/images/dumbilionaire-logo.webp # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
