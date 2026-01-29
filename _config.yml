@@ -11,7 +11,7 @@ favicon:
 logo: assets/images/01.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://zilton7.github.io/dumbilionaire/ # URL of your website
 locale: en_GB # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
-ga4: G-VJZ3JP92JF
+ga4: G-NZ3M3ZBC8L
 twitter:
   username: UserName # Used for SEO
 image:
